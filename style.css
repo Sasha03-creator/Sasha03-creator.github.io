@@ -1,0 +1,19 @@
+*{
+    margin:0;
+}
+
+header{
+    margin:0;
+    padding: 10px 5%;
+   width: 100%;
+}
+
+html{
+    background-color: rgb(38, 44, 78);
+}
+
+.probel{
+    display:flex;
+    justify-content: flex-start;
+}
+
